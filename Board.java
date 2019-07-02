@@ -1,5 +1,3 @@
-package regSudoku;
-
 public class Board {
 
 	Tile[][] arr;
