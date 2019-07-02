@@ -1,5 +1,3 @@
-package regSudoku;
-
 import javafx.application.Application;
 import javafx.geometry.HPos;
 import javafx.geometry.Pos;
